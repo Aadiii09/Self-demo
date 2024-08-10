@@ -1,2 +1,4 @@
 # Self-demo
-This is my first day Git Repository
+This is my first Git Repository.
+<br>
+Author - Aditya Dhole
